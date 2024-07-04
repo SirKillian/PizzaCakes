@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "bites=0": { "model": "oxywire/pizza_6" },
+        "bites=1": { "model": "oxywire/pizza_5" },
+        "bites=2": { "model": "oxywire/pizza_4" },
+        "bites=3": { "model": "oxywire/pizza_3" },
+        "bites=4": { "model": "oxywire/pizza_2" },
+        "bites=5": { "model": "oxywire/pizza_1" },
+        "bites=6": { "model": "oxywire/pizza_0" }
+    }
+}
